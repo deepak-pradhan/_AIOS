@@ -433,3 +433,6 @@ Key findings:
 [example/cook_therapist] At step 3, [Action]: I fail to call any tools.. [Observation]: The tool parameter {'prompt': 'Balsamic Glazed Pork Chops with Roasted Brussels Sprouts and Cauliflower on a plate, garnished with fresh parsley and a drizzle of balsamic glaze.', 'path': '/home/dp/Documents/_POCs/AIOS/AIOS/pyopenagi/agents/example/cook_therapist/output/generated_image.png'} is invalid.
 
 ```
+
+## Next Steps:
+### @TODO: LLM Classes
