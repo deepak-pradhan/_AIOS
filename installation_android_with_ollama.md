@@ -2,10 +2,8 @@
 
 ### [Prerequsites](#) : Met 
 
-* Download and install [F-Droid](https://f-droid.org/)
-  , Open F-Droid:
-  , , Search for Termux
-  , , & Install Termux ( Linux Emulator on Android
+* Download and install [F-Droid](https://f-droid.org/)   
+  , Open F-Droid:  Search for Termux & Install Termux ( Linux Emulator on Android )     
 
 * Updata & Upgrade pakages
   ```bash
