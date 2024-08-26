@@ -52,6 +52,9 @@ $ cd _AIOS
 $
 $ pythom -m venv .venv
 $ ls -al
+  .
+  ..
+  .venv
 
 
 # Prep: Git Enabled
