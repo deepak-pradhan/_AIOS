@@ -14,6 +14,8 @@
   ```bash
   # Required
   $ pkg install python
+
+  # Verify required packages, etc.
   $ python -V
     Python 3.11.9
   $ pip -V
@@ -27,11 +29,10 @@
   ```
 
   ```bash
+  # Prep for tmux
   $ apt update
   $ apt upgrade
-  ```
-
-  ```bash
+  
   # Install TMux
   apt install tmux
   ```
